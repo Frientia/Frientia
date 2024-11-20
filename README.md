@@ -24,7 +24,7 @@ Here are some of the repositories I’ve worked on:
 - [Project 2: E-Commerce](https://github.com/Frientia/ukk_klaster3) - A simple e-commerce platform built with PHP and MySQL.
 
 ## 📞 Contact Me
-- [FaceBook](https://web.facebook.com/Frientia)
+- [Facebook](https://web.facebook.com/Frientia)
 - ✉️ Email: muhamadyajidky@gmail.com
 
 ## 📊 GitHub Stats
