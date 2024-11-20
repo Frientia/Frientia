@@ -1,30 +1,32 @@
-![Header Image](https://preview.redd.it/okarun-cosplay-from-dan-da-dan-v0-ph4zggzkghwd1.jpg?width=640&crop=smart&auto=webp&s=d4b566f864ad020aa4e708bfbf333bbc4aa88a63)
+<p align="center">
+  <img src="https://preview.redd.it/okarun-cosplay-from-dan-da-dan-v0-ph4zggzkghwd1.jpg?width=640&crop=smart&auto=webp&s=d4b566f864ad020aa4e708bfbf333bbc4aa88a63" alt="Header Image">
+</p>
 
 # Hi, I'm Frientia 👋
 
-I'm a software engineer passionate about backend development, particularly working with PHP, MySQL, and JavaScript.
+I’m an aspiring backend developer with a strong foundation in PHP and MySQL. I’m currently learning JavaScript, Git, and GitHub to improve my skills and move towards full-stack development.
 
 ## ✨ About Me
-I am currently focusing on backend development, learning new technologies, and contributing to open-source projects.
+I’m passionate about backend development and excited to expand my skill set. Right now, I’m focusing on learning JavaScript, Git, and GitHub to complement my PHP and MySQL knowledge.
 
-- 💻 **Tech Stack**: PHP, MySQL, JavaScript, Git, Node.js, GitHub
-- 📚 **Currently Learning**: JavaScript, Git, GitHub
+- 💻 **Tech Stack**: PHP, MySQL (Currently learning: JavaScript, Git, GitHub)
 - 🚀 **Aspiring**: Backend Developer
-- 🌱 **Fun Fact**: I love solving coding challenges and contributing to open-source.
+- 🌱 **Learning**: JavaScript, Git, GitHub
+- 🤔 **Fun Fact**: I enjoy solving coding challenges and learning new technologies every day!
 
 ## 🛠 Skills
-- **Languages**: PHP, MySQL, JavaScript, Node.js
-- **Frontend**: React, Vue.js
-- **Version Control**: Git, GitHub
+- **Languages**: PHP, MySQL
+- **Version Control**: Git (learning)
+- **Currently Exploring**: JavaScript
 
 ## 📂 Projects
-Here are some of the repositories I’ve worked on:
+Here are some projects I’ve worked on:
 
-- [Project 1: Attendance System](https://github.com/Frientia/sistem_absensi) - A system for managing attendance.
-- [Project 2: E-Commerce](https://github.com/Frientia/ukk_klaster3) - A simple e-commerce platform built with PHP and MySQL.
+- [Project 1: Attendance System](https://github.com/Frientia/sistem_absensi) - A simple attendance management system built with PHP and MySQL.
+- [Project 2: E-Commerce](https://github.com/Frientia/ukk_klaster3) - An e-commerce platform using PHP and MySQL.
 
 ## 📞 Contact Me
-- [FaceBook](https://web.facebook.com/Frientia)
+- [Facebook](https://web.facebook.com/Frientia)
 - ✉️ Email: muhamadyajidky@gmail.com
 
 ## 📊 GitHub Stats
@@ -34,7 +36,7 @@ Here are some of the repositories I’ve worked on:
 ---
 
 ### ⭐ Open Source Contributions
-I'm passionate about open-source and enjoy contributing to various projects. If you're looking for contributions, feel free to reach out!
+I’m just starting my open-source journey, but I’m eager to contribute! Feel free to reach out if you need help with a project or want to collaborate.
 
 ---
 
