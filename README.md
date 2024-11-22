@@ -27,7 +27,7 @@ Here are some projects I’ve worked on:
 
 ## 📞 Contact Me
 - [Facebook](https://web.facebook.com/Frientia)
-- ✉️ Email: muhamadyajidky@gmail.com
+- ✉️ Email: muhamadyajidrizky@gmail.com
 
 ## 📊 GitHub Stats
 
