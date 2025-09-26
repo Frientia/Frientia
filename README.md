@@ -2,7 +2,7 @@
   <img src="https://preview.redd.it/okarun-cosplay-from-dan-da-dan-v0-ph4zggzkghwd1.jpg?width=640&crop=smart&auto=webp&s=d4b566f864ad020aa4e708bfbf333bbc4aa88a63" alt="Header Image">
 </p>
 
-# Hi, I'm Frientia 👋
+# Hi, I'm Muhamad Yajid Rizky 👋
 
 I’m an aspiring backend developer with a strong foundation in PHP and MySQL. I’m currently learning JavaScript, Git, and GitHub to improve my skills and move towards full-stack development.
 
