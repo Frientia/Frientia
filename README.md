@@ -130,4 +130,5 @@ I do not claim experience with large-scale or production-critical systems.
 
 ## GitHub Statistics
 
-![Frientia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frientia&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Frientia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frientia&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+
